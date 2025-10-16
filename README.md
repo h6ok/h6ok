@@ -1,7 +1,13 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=h6ok" />
-</div>
+<p align="left">
+  <a href="https://github.com/h6ok">
+    <img height="20" src="https://komarev.com/ghpvc/?username=h6ok" />
+  </a>
+  <a href="https://github.com/h6ok">
+    <img height="20" src="https://img.shields.io/github/followers/h6ok?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
@@ -23,11 +29,13 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=h6ok&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h6ok&theme=vue-dark&layout=compact" />
-</div>
+## 🏃‍♀️ Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h6ok&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h6ok&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h6ok&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=h6ok&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h6ok&theme=gruvbox&utcOffset=9)
+
 
 
 <!--
