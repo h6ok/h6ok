@@ -11,7 +11,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## Hi there
 
 - 🧑‍💻 I'm a backend / frontend engineer.
 - 🌱 I’m currently learning go!
@@ -22,14 +22,14 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,python,java,go,docker" />
 <br>
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Stats
+## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h6ok&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h6ok&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h6ok&theme=zenburn)
